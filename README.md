@@ -1,7 +1,7 @@
 ## Oiii eu sou o Pedro Lopes, desenvolvivedor backend junior!
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohsl2003&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsl2003&hide_progress=true)](https://github.com/Pedrohsl2003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsl2003&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
