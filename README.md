@@ -1,9 +1,8 @@
 ## Oiii eu sou o Pedro Lopes, desenvolvivedor backend junior!
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohsl2003&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsl2003&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Tecnologias que utilizo nos meus dias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
