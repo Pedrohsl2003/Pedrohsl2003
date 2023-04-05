@@ -21,4 +21,10 @@
   <a href="https://www.linkedin.com/in/pedro-lopes-b9744721a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-## Ultimos repositórios
+## Ultimos repositórios:
+- [Cursos da Fundação Bradesco](https://github.com/Pedrohsl2003/FundacaoBradesco)<br>
+- [Projetos da Faculdade](https://github.com/Pedrohsl2003/ProjetosFaculdade)<br>
+- [Site Portfólio](https://github.com/Pedrohsl2003/Portfolio)<br>
+- [SQL](https://github.com/Pedrohsl2003/SQL)<br>
+
+
