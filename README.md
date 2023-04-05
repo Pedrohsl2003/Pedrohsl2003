@@ -1,4 +1,4 @@
-## Oiii eu sou o Pedro Lopes, desenvolvivedor backend junior!
+## Oiii eu sou o Pedro Lopes, Desenvolvivedor FrontEnd Junior!
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohsl2003&show_icons=true&theme=dracula)
 
