@@ -1,7 +1,9 @@
 ## Oiii eu sou o Pedro Lopes, Desenvolvivedor FrontEnd Junior!
 
+<div style="margin-left: 10px">
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohsl2003&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsl2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Tecnologias que utilizo no meu dia a dia
 
