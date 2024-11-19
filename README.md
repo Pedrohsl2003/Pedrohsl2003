@@ -1,7 +1,7 @@
 # 🌟 Sobre Mim:
 ⚡️ Programador na **Conforlab** com paixão pelo **Front-End**! Adoro ver as coisas ganhando vida na tela. Mas se o Back-End chamar, eu também sei como domá-lo!  
 🍀 Sou curioso por natureza, sempre em busca da solução de problemas e de novos desafios.  
-📫 Me manda um alô por e-mail: [pedro.hsl2003@gmail.com](mailto:pedro.hsl2003@gmail.com)  
+📫 Me manda um alô por e-mail: [pedroloopes.dev@gmail.com](mailto:pedroloopes.dev@gmail.com)  
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🌐 Vamos Conectar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lopes-b9744721a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedro.hsl2003@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedroloopes.dev@gmail.com)  
 
 ---
 
