@@ -70,6 +70,8 @@ Aqui está um pouco do que tenho feito por aqui!
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroloopes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedroloopes&show_icons=true&theme=gotham)
+
 ---
 
 ## 🎯 Objetivos e Curiosidades (com um toque de humor)
