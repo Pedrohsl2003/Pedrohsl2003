@@ -72,6 +72,8 @@ Aqui está um pouco do que tenho feito por aqui!
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedroloopes&show_icons=true&theme=gotham)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devpedroloopes&theme=gotham)
+
 ---
 
 ## 🎯 Objetivos e Curiosidades (com um toque de humor)
